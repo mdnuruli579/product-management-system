@@ -1,0 +1,3 @@
+[submodule "ProductManagementFrontend/product-management-system"]
+	path = ProductManagementFrontend/product-management-system
+	url = https://github.com/mdnuruli579/product-management-system.git
